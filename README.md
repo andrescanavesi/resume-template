@@ -1,2 +1,2 @@
-# resume-template
+# Resume template
 Simple resume template
